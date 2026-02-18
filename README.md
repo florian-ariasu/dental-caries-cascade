@@ -45,3 +45,9 @@ Full technical reports in IEEE format are available in the [documentation](./doc
 - **M2:** Dataset Collection & Baseline Results
 - **M3:** Proposed Methodology & Hybrid Logic
 - **M4:** Final Aggregate Paper & Discussion
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
