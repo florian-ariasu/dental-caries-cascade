@@ -2,12 +2,6 @@
 
 **Project Goal:** Developing a robust diagnostic pipeline that decouples lesion localization from fine-grained texture verification.
 
----
-
-## 🛠️ Engineering Overview
-
-This project represents a transition from a failing baseline to a high-performance hybrid system. As an aspiring **Support & Systems Engineer**, my focus was on building a stable data pipeline and a reliable decision-making logic for medical diagnostics.
-
 ### 📂 Project Structure
 
 #### [M2: Image-Level Baseline](./M2_Baseline_Classifier/)
