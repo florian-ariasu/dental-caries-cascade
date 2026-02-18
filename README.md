@@ -6,7 +6,7 @@ This project investigates deep learning approaches for the automated detection o
 
 ## Project Structure
 
-### [Milestone 1: Literature Review](./documentation/M1_CD.pdf)
+### [Milestone 1: Literature Review](./documentation/m1_literature_review.pdf)
 
 - **Objective:** Established the research context by reviewing CNN and Vision Transformer architectures in dental diagnostics.
 - **Key Findings:** Identified gaps in clinical generalization, limited multimodal datasets, and the necessity for explainable AI (XAI) tools like Grad-CAM.
