@@ -30,8 +30,8 @@ This project investigates deep learning approaches for the automated detection o
 
 As noted in the final evaluation, the performance metrics of the M2 Baseline and the M3 Cascade are not directly comparable in a traditional sense.
 
-- **M2** was an image-level classification task on a limited set of 342 ROIs.
-- **M3** transitioned to a tooth-level detection task, leveraging a significantly expanded dataset of approximately **18,000 tooth patches** generated via automated cropping with dynamic padding.
+- **M2** was an image-level classification task on a limited set of 342 ROIs
+- **M3** transitioned to a tooth-level detection task, leveraging a significantly expanded dataset of approximately **18,000 tooth patches** generated via automated cropping with dynamic padding
 
 This shift was necessary to capture fine-grained enamel textures that are lost at the global image level. The transition demonstrates that decoupling localization from verification is a more robust approach for clinical radiographs than pure image-level classification.
 
